@@ -11,7 +11,6 @@
         }
     ],
     "require": {
-        "laravel/laravel": "5.5.*"
     },
     "require-dev": {
         "phpunit/phpunit": "4.0.*"
