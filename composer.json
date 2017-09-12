@@ -1,0 +1,22 @@
+{
+    "name": "immanitas/webapp",
+    "description": "Just trying out composer, git and travis.",
+    "type": "project",
+    "license": "MIT",
+    "keywords": ["webapp"],
+    "authors": [
+        {
+            "name": "Igors Sigalovs",
+            "email": "igor.sigalovs@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Immanitas\\Webapp\\": "src"
+        }
+    }
+}
